@@ -46,7 +46,7 @@ namespace ADPv2.Client
 
             using (var client = new SmtpClient(_sendInBlueSettings.Host, _sendInBlueSettings.Port))
             {
-                client.Credentials = new NetworkCredential(_sendInBlueSettings.SenderEmail, _sendInBlueCredentials.Password);
+                client.Credentials = new NetworkCredential(_sendInBlueCredentials.Username, _sendInBlueCredentials.Password);
                 client.EnableSsl = true;
                 client.Send(message);
             }
@@ -65,6 +65,8 @@ namespace ADPv2.Client
                 );
 
             var apiInstance = new TransactionalSMSApi();
+            apiInstance.Configuration.AddDefaultHeader("accept", "application/json");
+            apiInstance.Configuration.AddApiKey("api-key", smsKey);
             apiInstance.SendTransacSms(sendTransactionalSms);
         }
     }

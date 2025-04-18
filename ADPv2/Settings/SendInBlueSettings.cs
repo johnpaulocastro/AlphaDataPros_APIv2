@@ -16,4 +16,9 @@
         public string Username { get; set; }
         public string Password { get; set; }
     }
+
+    public class SendInBlueSmsKey
+    {
+        public string Key { get; set; }
+    }
 }

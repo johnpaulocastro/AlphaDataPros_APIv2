@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|c:\\users\\john paulo castro\\documents\\project_gst\\gateway\\alphadatapros_apiv2\\adpv2\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|solutionrelative:adpv2\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|c:\\users\\john paulo castro\\documents\\project_gst\\gateway\\alphadatapros_apiv2\\adpv2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|solutionrelative:adpv2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|c:\\users\\john paulo castro\\documents\\project_gst\\gateway\\alphadatapros_apiv2\\adpv2\\controllers\\apicontrollers\\apitransactionhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|solutionrelative:adpv2\\controllers\\apicontrollers\\apitransactionhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,28 +11,20 @@
       "RelativeMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|solutionrelative:adpv2\\client\\sendinblueclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|c:\\users\\john paulo castro\\documents\\project_gst\\gateway\\alphadatapros_apiv2\\adpv2\\classhelpers\\smshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|solutionrelative:adpv2\\classhelpers\\smshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|c:\\users\\john paulo castro\\documents\\project_gst\\gateway\\alphadatapros_apiv2\\adpv2\\settings\\sendinbluesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|solutionrelative:adpv2\\settings\\sendinbluesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|c:\\users\\john paulo castro\\documents\\project_gst\\gateway\\alphadatapros_apiv2\\adpv2\\classhelpers\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|solutionrelative:adpv2\\classhelpers\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|c:\\users\\john paulo castro\\documents\\project_gst\\gateway\\alphadatapros_apiv2\\adpv2\\admincontrollers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|solutionrelative:adpv2\\admincontrollers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|c:\\users\\john paulo castro\\documents\\project_gst\\gateway\\alphadatapros_apiv2\\adpv2\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|solutionrelative:adpv2\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|c:\\users\\john paulo castro\\documents\\project_gst\\gateway\\alphadatapros_apiv2\\adpv2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|solutionrelative:adpv2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|c:\\users\\john paulo castro\\documents\\project_gst\\gateway\\alphadatapros_apiv2\\adpv2\\classhelpers\\base64helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|solutionrelative:adpv2\\classhelpers\\base64helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|c:\\users\\john paulo castro\\documents\\project_gst\\gateway\\alphadatapros_apiv2\\adpv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|solutionrelative:adpv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|c:\\users\\john paulo castro\\documents\\project_gst\\gateway\\alphadatapros_apiv2\\adpv2\\settings\\sendinbluesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|solutionrelative:adpv2\\settings\\sendinbluesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{237FA84A-69F6-4C9F-8BB9-641069BC0F0C}|ADPv2\\ADPv2.csproj|c:\\users\\john paulo castro\\documents\\project_gst\\gateway\\alphadatapros_apiv2\\adpv2\\classhelpers\\dataconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,12 +51,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "ADPv2\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\appsettings.Production.json",
+              "RelativeToolTip": "ADPv2\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T15:24:47.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\Program.cs",
+              "RelativeDocumentMoniker": "ADPv2\\Program.cs",
+              "ToolTip": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\Program.cs",
+              "RelativeToolTip": "ADPv2\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:18:09.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ApiTransactionHistoryController.cs",
               "DocumentMoniker": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\Controllers\\ApiControllers\\ApiTransactionHistoryController.cs",
               "RelativeDocumentMoniker": "ADPv2\\Controllers\\ApiControllers\\ApiTransactionHistoryController.cs",
               "ToolTip": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\Controllers\\ApiControllers\\ApiTransactionHistoryController.cs",
               "RelativeToolTip": "ADPv2\\Controllers\\ApiControllers\\ApiTransactionHistoryController.cs",
-              "ViewState": "AgIAAPwAAAAAAAAAAAAcwBgBAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAqwBUBAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T05:17:50.736Z",
               "EditorCaption": ""
@@ -80,25 +90,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "ADPv2\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\appsettings.Development.json",
-              "RelativeToolTip": "ADPv2\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAACIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-18T05:12:35.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "SendInBlueClient.cs",
               "DocumentMoniker": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\Client\\SendInBlueClient.cs",
               "RelativeDocumentMoniker": "ADPv2\\Client\\SendInBlueClient.cs",
               "ToolTip": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\Client\\SendInBlueClient.cs",
               "RelativeToolTip": "ADPv2\\Client\\SendInBlueClient.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADAAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T05:07:49.351Z",
               "EditorCaption": ""
@@ -113,62 +110,11 @@
               "RelativeToolTip": "ADPv2\\Settings\\SendInBlueSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T05:07:13.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\AdminControllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "ADPv2\\AdminControllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\AdminControllers\\AdminController.cs",
-              "RelativeToolTip": "ADPv2\\AdminControllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T05:03:02.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.Production.json",
-              "DocumentMoniker": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\appsettings.Production.json",
-              "RelativeDocumentMoniker": "ADPv2\\appsettings.Production.json",
-              "ToolTip": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\appsettings.Production.json",
-              "RelativeToolTip": "ADPv2\\appsettings.Production.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAACPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-18T04:54:26.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T05:07:13.846Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "EmailHelper.cs",
-              "DocumentMoniker": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\ClassHelpers\\EmailHelper.cs",
-              "RelativeDocumentMoniker": "ADPv2\\ClassHelpers\\EmailHelper.cs",
-              "ToolTip": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\ClassHelpers\\EmailHelper.cs",
-              "RelativeToolTip": "ADPv2\\ClassHelpers\\EmailHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T04:55:59.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SmsHelper.cs",
-              "DocumentMoniker": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\ClassHelpers\\SmsHelper.cs",
-              "RelativeDocumentMoniker": "ADPv2\\ClassHelpers\\SmsHelper.cs",
-              "ToolTip": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\ClassHelpers\\SmsHelper.cs",
-              "RelativeToolTip": "ADPv2\\ClassHelpers\\SmsHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T04:55:57.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "DataConstant.cs",
               "DocumentMoniker": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\ClassHelpers\\DataConstant.cs",
               "RelativeDocumentMoniker": "ADPv2\\ClassHelpers\\DataConstant.cs",
@@ -180,19 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Base64Helper.cs",
-              "DocumentMoniker": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\ClassHelpers\\Base64Helper.cs",
-              "RelativeDocumentMoniker": "ADPv2\\ClassHelpers\\Base64Helper.cs",
-              "ToolTip": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\ClassHelpers\\Base64Helper.cs",
-              "RelativeToolTip": "ADPv2\\ClassHelpers\\Base64Helper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T04:56:17.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "MD5Helper.cs",
               "DocumentMoniker": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\ClassHelpers\\MD5Helper.cs",
               "RelativeDocumentMoniker": "ADPv2\\ClassHelpers\\MD5Helper.cs",
@@ -204,15 +138,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "ADPv2\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\John Paulo Castro\\Documents\\Project_GST\\Gateway\\AlphaDataPros_APIv2\\ADPv2\\Controllers\\AccountController.cs",
               "RelativeToolTip": "ADPv2\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T05:03:18.419Z"
+              "WhenOpened": "2025-04-18T05:03:18.419Z",
+              "EditorCaption": ""
             }
           ]
         }
