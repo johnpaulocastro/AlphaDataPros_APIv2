@@ -14,7 +14,7 @@ namespace ADPv2.Models.Repositories
 
         public async Task<PaymentLinkEntity> GetPaymentLink(string paymentLinkId)
         {
-            string query = string.Format(@"SELECT * FROM tblPaymentLink WHERE PaymentLinkId = @PaymentLinkId");
+            string query = string.Format(@"SELECT * FROM tblPaymentLink WHERE PaymentLinkId = @PaymentLinkId AND IsDeleted = 0");
             var parameters = new { PaymentLinkId = paymentLinkId };
 
             var result = await _db.QueryFirstOrDefaultAsync<PaymentLinkEntity>(query, parameters);
@@ -23,7 +23,7 @@ namespace ADPv2.Models.Repositories
 
         public async Task<List<PaymentLinkEntity>> GetPaymentLinkList(string merchantId)
         {
-            string query = string.Format(@"SELECT * FROM tblPaymentLink WHERE MerchantId = @MerchantId");
+            string query = string.Format(@"SELECT * FROM tblPaymentLink WHERE MerchantId = @MerchantId AND IsDeleted = 0");
             var parameters = new { MerchantId = merchantId };
 
             var result = await _db.QueryAsync<PaymentLinkEntity>(query, parameters);
