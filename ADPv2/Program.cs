@@ -205,6 +205,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseCors("corsapp");
 app.UseMiddleware<RequestResponseLoggerMiddleware>();
 app.UseExceptionHandler(c => c.Run(async context =>
 {
@@ -216,7 +217,6 @@ app.UseExceptionHandler(c => c.Run(async context =>
     await context.Response.WriteAsJsonAsync(response);
 }));
 
-app.UseCors("corsapp");
 app.UseAuthentication();
 app.UseAuthorization();
 
