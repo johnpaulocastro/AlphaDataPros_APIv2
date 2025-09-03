@@ -27,6 +27,12 @@ namespace ADPv2.Middlewares
         public async Task InvokeAsync(HttpContext httpContext,
             IRequestResponseLogModelCreator logCreator)
         {
+            if (httpContext.Request.Method.Equals("OPTIONS", StringComparison.OrdinalIgnoreCase))
+            {
+                await _next(httpContext); // don't wrap preflight requests
+                return;
+            }
+
             RequestResponseLogModel log = logCreator.LogModel;
             if (_settings == null || !_settings.IsEnabled)
             {
